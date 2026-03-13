@@ -1,0 +1,11 @@
+area,bedrooms,bathrooms,stories,mainroad_yes,guestroom_yes,basement_yes,hotwaterheating_yes,airconditioning_yes,parking,prefarea_yes,furnishingstatus_semi-furnished,furnishingstatus_unfurnished
+5000,3,2,2,1,0,1,0,1,2,1,1,0
+6200,4,3,2,1,1,1,0,1,2,1,0,0
+3500,2,1,1,0,0,0,0,0,1,0,0,1
+7200,4,3,2,1,0,1,1,1,3,1,1,0
+4100,3,2,1,0,0,0,0,1,1,0,0,1
+8500,5,4,3,1,1,1,1,1,3,1,0,0
+2900,2,1,1,0,0,0,0,0,1,0,0,1
+5600,3,2,2,1,0,1,0,1,2,1,1,0
+6400,4,3,2,1,1,1,0,1,2,1,0,0
+4700,3,2,1,0,0,0,0,1,1,0,1,0
